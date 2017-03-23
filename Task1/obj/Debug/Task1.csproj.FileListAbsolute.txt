@@ -1,0 +1,5 @@
+C:\Users\Виктория\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.05\Task1\bin\Debug\Task1.dll
+C:\Users\Виктория\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.05\Task1\bin\Debug\Task1.pdb
+C:\Users\Виктория\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.05\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.05\Task1\obj\Debug\Task1.dll
+C:\Users\Виктория\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.05\Task1\obj\Debug\Task1.pdb

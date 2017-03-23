@@ -1,0 +1,9 @@
+C:\Users\Виктория\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.05\Task1.Test\bin\Debug\Task1.Test.dll
+C:\Users\Виктория\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.05\Task1.Test\bin\Debug\Task1.Test.pdb
+C:\Users\Виктория\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.05\Task1.Test\bin\Debug\nunit.framework.dll
+C:\Users\Виктория\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.05\Task1.Test\bin\Debug\Task1.dll
+C:\Users\Виктория\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.05\Task1.Test\bin\Debug\nunit.framework.xml
+C:\Users\Виктория\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.05\Task1.Test\bin\Debug\Task1.pdb
+C:\Users\Виктория\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.05\Task1.Test\obj\Debug\Task1.Test.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.05\Task1.Test\obj\Debug\Task1.Test.dll
+C:\Users\Виктория\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.05\Task1.Test\obj\Debug\Task1.Test.pdb
