@@ -3,3 +3,8 @@ C:\Users\Виктория\documents\visual studio 2015\Projects\Net.S.2017.01.Ra
 C:\Users\Виктория\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.05\Task2\obj\Debug\Task2.dll
 C:\Users\Виктория\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.05\Task2\obj\Debug\Task2.pdb
 C:\Users\Виктория\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.05\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\git\Net.S.2017.01.Ramanovskiy.05\Task2\bin\Debug\Task2.dll
+C:\Users\User\Desktop\git\Net.S.2017.01.Ramanovskiy.05\Task2\bin\Debug\Task2.pdb
+C:\Users\User\Desktop\git\Net.S.2017.01.Ramanovskiy.05\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\git\Net.S.2017.01.Ramanovskiy.05\Task2\obj\Debug\Task2.dll
+C:\Users\User\Desktop\git\Net.S.2017.01.Ramanovskiy.05\Task2\obj\Debug\Task2.pdb
